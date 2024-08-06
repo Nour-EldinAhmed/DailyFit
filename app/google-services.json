@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933786359481",
+    "project_id": "dailyfit-a2833",
+    "storage_bucket": "dailyfit-a2833.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933786359481:android:262e3711f4fb455b0f6d68",
+        "android_client_info": {
+          "package_name": "com.nour.dailyfit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiciLoWbie_CS-YZzXZ4B5P4j9iC0NsLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
