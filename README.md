@@ -41,5 +41,3 @@ We welcome contributions to improve DailyFit. If you have suggestions, feature r
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-تأكد من تحديث الرابط إلى رابط تنزيل التطبيق الخاص بك، وإذا كنت بحاجة إلى إضافة أو تعديل أي شيء آخر، أنا هنا للمساعدة!
