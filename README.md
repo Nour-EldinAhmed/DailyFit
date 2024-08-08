@@ -40,4 +40,11 @@ We welcome contributions to improve DailyFit. If you have suggestions, feature r
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+
+## Contact
+
+For any questions or support, feel free to contact the project maintainer:
+
+- **Name:** Nour Eldin Ahmed
+- **GitHub:** [Nour-EldinAhmed](https://github.com/Nour-EldinAhmed)
+
